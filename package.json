@@ -1,0 +1,14 @@
+{
+  "name": "sanber-js-pekan2",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 2 Sanbercode - Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node file_name.js"
+  },
+  "author": "Alzira Lutifah",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
