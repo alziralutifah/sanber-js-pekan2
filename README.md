@@ -12,14 +12,14 @@ Repositori ini terdiri dari beberapa file JavaScript yang menyelesaikan soal-soa
 - `package-lock.json`: Mengelola versi dependensi proyek.
 - `package.json`: Berisi metadata proyek dan dependensi yang digunakan.
 - `readme.me`: File tambahan dengan penjelasan terkait proyek.
-- `soal1.js`: Jawaban untuk soal pertama.
-- `soal2.js`: Jawaban untuk soal kedua.
+- `soal1.js`: Code untuk soal pertama.
+- `soal2.js`: Code untuk soal kedua.
 
 ## Instalasi
 
 1. Clone repositori ini ke mesin lokal Anda:
    ```bash
-   git clone https://github.com/username/sanber-js-pekan2.git
+   https://github.com/alziralutifah/sanber-js-pekan2.git
 
 2. Masuk ke direktori proyek:
     ```bash
