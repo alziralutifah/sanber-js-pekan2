@@ -7,6 +7,7 @@ Repositori ini terdiri dari beberapa file JavaScript yang menyelesaikan soal-soa
 
 ## Struktur Folder
 
+- `result-code`: Folder berisi gambar hasil running code Soal1 dan Soal2
 - `.gitignore`: File yang mengatur file dan folder apa yang harus diabaikan oleh Git.
 - `README.md`: Dokumentasi ini.
 - `package-lock.json`: Mengelola versi dependensi proyek.
@@ -37,6 +38,7 @@ Setelah proyek diinstal, Anda bisa menjalankan file JavaScript menggunakan Node.
    node soal1.js
 
 Hasil Soal1:
+![Soal 1](https://github.com/alziralutifah/sanber-js-pekan2/blob/main/result_code/Soal1.png)
 
 
 2. Run soal kedua:
@@ -44,7 +46,7 @@ Hasil Soal1:
     node soal2.js
 
 Hasil Soal2:
-
+![Soal 2](https://github.com/alziralutifah/sanber-js-pekan2/blob/main/result_code/Soal2.png)
 
 
 ## Kontribusi
