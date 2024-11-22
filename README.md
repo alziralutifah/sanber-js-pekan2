@@ -36,9 +36,16 @@ Setelah proyek diinstal, Anda bisa menjalankan file JavaScript menggunakan Node.
    ```bash
    node soal1.js
 
+Hasil Soal1:
+
+
 2. Run soal kedua:
     ```bash
     node soal2.js
+
+Hasil Soal2:
+
+
 
 ## Kontribusi
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan ajukan pull request dengan deskripsi perubahan Anda.
