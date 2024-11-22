@@ -36,17 +36,17 @@ Setelah proyek diinstal, Anda bisa menjalankan file JavaScript menggunakan Node.
 1. Run soal pertama:
    ```bash
    node soal1.js
-
-Hasil Soal1:
-![Soal 1](https://github.com/alziralutifah/sanber-js-pekan2/blob/main/result_code/Soal1.png)
+   ```
+   Hasil Soal1:
+   ![Soal 1](https://github.com/alziralutifah/sanber-js-pekan2/blob/main/result_code/Soal1.png)
 
 
 2. Run soal kedua:
     ```bash
     node soal2.js
-
-Hasil Soal2:
-![Soal 2](https://github.com/alziralutifah/sanber-js-pekan2/blob/main/result_code/Soal2.png)
+   ```   
+   Hasil Soal2:
+   ![Soal 2](https://github.com/alziralutifah/sanber-js-pekan2/blob/main/result_code/Soal2.png)
 
 
 ## Kontribusi
