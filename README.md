@@ -49,6 +49,15 @@ Setelah proyek diinstal, Anda bisa menjalankan file JavaScript menggunakan Node.
    ![Soal 2](https://github.com/alziralutifah/sanber-js-pekan2/blob/main/result_code/Soal2.png)
 
 
+## Demo Video
+To see a demonstration program javascript, check out the following video:
+
+https://youtu.be/w8eXTpbkN8E
+
+This video will guide you through the process of running the tests and generating the test reports.
+
+
+
 ## Kontribusi
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan ajukan pull request dengan deskripsi perubahan Anda.
 
